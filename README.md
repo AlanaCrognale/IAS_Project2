@@ -1,1 +1,1 @@
-# IAS_Project2
+# IAS_Project2 Gesture Recognition
